@@ -1,46 +1,46 @@
-Весь контент исключительно для демонстрации функционала.
+п»їР’РµСЃСЊ РєРѕРЅС‚РµРЅС‚ РёСЃРєР»СЋС‡РёС‚РµР»СЊРЅРѕ РґР»СЏ РґРµРјРѕРЅСЃС‚СЂР°С†РёРё С„СѓРЅРєС†РёРѕРЅР°Р»Р°.
 All Content is for demonstration purpose only.
 
-Для корректной работы программы необходимо установить TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
+Р”Р»СЏ РєРѕСЂСЂРµРєС‚РЅРѕР№ СЂР°Р±РѕС‚С‹ РїСЂРѕРіСЂР°РјРјС‹ РЅРµРѕР±С…РѕРґРёРјРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 Please install:  TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 
-Запуск сервера / Server exec : Запустить Server.bat
+Р—Р°РїСѓСЃРє СЃРµСЂРІРµСЂР° / Server exec : Р—Р°РїСѓСЃС‚РёС‚СЊ Server.bat
 
-Запуск клиента / Client exec: Запустить TheGame.exe
+Р—Р°РїСѓСЃРє РєР»РёРµРЅС‚Р° / Client exec: Р—Р°РїСѓСЃС‚РёС‚СЊ TheGame.exe
 
-Для подключения необходимо указать IP адрес хоста, для локальной машины (клиент и сервер на одном компьютере) - 127.0.0.1
+Р”Р»СЏ РїРѕРґРєР»СЋС‡РµРЅРёСЏ РЅРµРѕР±С…РѕРґРёРјРѕ СѓРєР°Р·Р°С‚СЊ IP Р°РґСЂРµСЃ С…РѕСЃС‚Р°, РґР»СЏ Р»РѕРєР°Р»СЊРЅРѕР№ РјР°С€РёРЅС‹ (РєР»РёРµРЅС‚ Рё СЃРµСЂРІРµСЂ РЅР° РѕРґРЅРѕРј РєРѕРјРїСЊСЋС‚РµСЂРµ) - 127.0.0.1
 Enter IP address to connect - default for local machine - 127.0.0.1
 
-Управление / Controls:
-W, A, S, D - Движение / Movement 
-E, Q - Поворот (Вертолет) / Turn (Helicopter)
-F - Войти (выйти) в транспорт / Enter (exit) vehicle
-Space - Прыжок, Тормоз / Jump, Brake
-LMB - Огонь / GunFire
-F6 - Смена вида от третьего или первого лица / Change view between first and third person
-R - Перезарядка / Reload
-G - Выбросить оружие / Drop weapon
-H - Бросить гранату / Grenade 
-Mouse Wheel - Зум / Zoom
-1 - Предыдущее оружие / Previous weapon
-2 - Следующее оружие / Next weapon
-Enter - Чат / Chat
+РЈРїСЂР°РІР»РµРЅРёРµ / Controls:
+W, A, S, D - Р”РІРёР¶РµРЅРёРµ / Movement 
+E, Q - РџРѕРІРѕСЂРѕС‚ (Р’РµСЂС‚РѕР»РµС‚) / Turn (Helicopter)
+F - Р’РѕР№С‚Рё (РІС‹Р№С‚Рё) РІ С‚СЂР°РЅСЃРїРѕСЂС‚ / Enter (exit) vehicle
+Space - РџСЂС‹Р¶РѕРє, РўРѕСЂРјРѕР· / Jump, Brake
+LMB - РћРіРѕРЅСЊ / GunFire
+F6 - РЎРјРµРЅР° РІРёРґР° РѕС‚ С‚СЂРµС‚СЊРµРіРѕ РёР»Рё РїРµСЂРІРѕРіРѕ Р»РёС†Р° / Change view between first and third person
+R - РџРµСЂРµР·Р°СЂСЏРґРєР° / Reload
+G - Р’С‹Р±СЂРѕСЃРёС‚СЊ РѕСЂСѓР¶РёРµ / Drop weapon
+H - Р‘СЂРѕСЃРёС‚СЊ РіСЂР°РЅР°С‚Сѓ / Grenade 
+Mouse Wheel - Р—СѓРј / Zoom
+1 - РџСЂРµРґС‹РґСѓС‰РµРµ РѕСЂСѓР¶РёРµ / Previous weapon
+2 - РЎР»РµРґСѓСЋС‰РµРµ РѕСЂСѓР¶РёРµ / Next weapon
+Enter - Р§Р°С‚ / Chat
 
-Серверные комманды (вводить в чат) / Server commands (Enter in chat):
-/loc - Текущие координаты / Current location
-/reset - Сброс текущей позиции / Reset current position to spawn point
-/weapons - Выдать все оружие / Give all weapons
+РЎРµСЂРІРµСЂРЅС‹Рµ РєРѕРјРјР°РЅРґС‹ (РІРІРѕРґРёС‚СЊ РІ С‡Р°С‚) / Server commands (Enter in chat):
+/loc - РўРµРєСѓС‰РёРµ РєРѕРѕСЂРґРёРЅР°С‚С‹ / Current location
+/reset - РЎР±СЂРѕСЃ С‚РµРєСѓС‰РµР№ РїРѕР·РёС†РёРё / Reset current position to spawn point
+/weapons - Р’С‹РґР°С‚СЊ РІСЃРµ РѕСЂСѓР¶РёРµ / Give all weapons
 
-/time_norm - Нормальный ход времени / Normal time speed
-/time_inc - Ускорение времени / Accelerated time
-/day - День / Set day
-/night - Ночь / Set night
-/bots on - Включить респавн ботов / Turn on bot respawn
-/bots off - Выключить респавн ботов / Turn off bot respawn
-/tidi on - Включить замедление времени / Turn on time dilation
-/tidi off - Выключить замедление времени / Turn off time dilation
-/rain - Включить(Выключить) дождь / Turn on (off) rain
-/kill all - Убить всех / Kill all
+/time_norm - РќРѕСЂРјР°Р»СЊРЅС‹Р№ С…РѕРґ РІСЂРµРјРµРЅРё / Normal time speed
+/time_inc - РЈСЃРєРѕСЂРµРЅРёРµ РІСЂРµРјРµРЅРё / Accelerated time
+/day - Р”РµРЅСЊ / Set day
+/night - РќРѕС‡СЊ / Set night
+/bots on - Р’РєР»СЋС‡РёС‚СЊ СЂРµСЃРїР°РІРЅ Р±РѕС‚РѕРІ / Turn on bot respawn
+/bots off - Р’С‹РєР»СЋС‡РёС‚СЊ СЂРµСЃРїР°РІРЅ Р±РѕС‚РѕРІ / Turn off bot respawn
+/tidi on - Р’РєР»СЋС‡РёС‚СЊ Р·Р°РјРµРґР»РµРЅРёРµ РІСЂРµРјРµРЅРё / Turn on time dilation
+/tidi off - Р’С‹РєР»СЋС‡РёС‚СЊ Р·Р°РјРµРґР»РµРЅРёРµ РІСЂРµРјРµРЅРё / Turn off time dilation
+/rain - Р’РєР»СЋС‡РёС‚СЊ(Р’С‹РєР»СЋС‡РёС‚СЊ) РґРѕР¶РґСЊ / Turn on (off) rain
+/kill all - РЈР±РёС‚СЊ РІСЃРµС… / Kill all
 
 /spawn u60
 /spawn mi24
@@ -52,7 +52,7 @@ Enter - Чат / Chat
 /spawn abrams
 
 
-Системные требования / System requirements:
+РЎРёСЃС‚РµРјРЅС‹Рµ С‚СЂРµР±РѕРІР°РЅРёСЏ / System requirements:
 CPU:			Intel Core 2 Quad CPU Q6600 @ 2.40GHz / AMD Phenom 9850 Quad-Core Processor @ 2.5GHz
 RAM:			2 GB
 OS:			Windows 7 64 Bit SP1
