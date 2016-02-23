@@ -1,0 +1,349 @@
+﻿[2016.02.21-16.33.30:467][  0]Log file open, 02/21/16 18:33:30
+[2016.02.21-16.33.30:467][  0]LogModuleManager:Warning: ModuleManager: Module 'HTTPChunkInstaller' not found - its StaticallyLinkedModuleInitializers function is null.
+[2016.02.21-16.33.30:469][  0]LogPlatformFile: Not using cached read wrapper
+[2016.02.21-16.33.30:469][  0]LogInit:Display: RandInit(1772153200) SRandInit(1772153228).
+[2016.02.21-16.33.30:469][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+[2016.02.21-16.33.30:469][  0]LogStats: Stats thread started at 2.964639
+[2016.02.21-16.33.30:469][  0]LogInit: Version: 4.10.1-0+++depot+UE4-Releases+4.10
+[2016.02.21-16.33.30:469][  0]LogInit: API Version: 0
+[2016.02.21-16.33.30:469][  0]LogInit: Compiled (64-bit): Dec 20 2015 18:10:33
+[2016.02.21-16.33.30:469][  0]LogInit: Compiled with Visual C++: 19.00.23026.00
+[2016.02.21-16.33.30:470][  0]LogInit: Build Configuration: Development
+[2016.02.21-16.33.30:470][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.10
+[2016.02.21-16.33.30:470][  0]LogInit: Command line: -log
+[2016.02.21-16.33.30:470][  0]LogInit: Base directory: F:/UnrealPacked/WindowsNoEditor/TheGame/Binaries/Win64/
+[2016.02.21-16.33.30:470][  0]LogInit: Rocket: 0
+[2016.02.21-16.33.30:559][  0]LogInit: Using libcurl 7.41.0
+[2016.02.21-16.33.30:559][  0]LogInit:  - built for x86_64-pc-win32
+[2016.02.21-16.33.30:560][  0]LogInit:  - supports SSL with WinSSL
+[2016.02.21-16.33.30:560][  0]LogInit:  - other features:
+[2016.02.21-16.33.30:560][  0]LogInit:      CURL_VERSION_SSL
+[2016.02.21-16.33.30:560][  0]LogInit:      CURL_VERSION_IPV6
+[2016.02.21-16.33.30:560][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2016.02.21-16.33.30:560][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2016.02.21-16.33.30:560][  0]LogInit:      CURL_VERSION_IDN
+[2016.02.21-16.33.30:569][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2016.02.21-16.33.30:569][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2016.02.21-16.33.30:569][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2016.02.21-16.33.30:570][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2016.02.21-16.33.30:570][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2016.02.21-16.33.30:716][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2016.02.21-16.33.30:866][  0]LogInit: Object subsystem initialized
+[2016.02.21-16.33.31:000][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2016.02.21-16.33.31:000][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsServer]
+[2016.02.21-16.33.31:097][  0]LogInit: Computer: VOVAN-PC
+[2016.02.21-16.33.31:097][  0]LogInit: User: Vovan
+[2016.02.21-16.33.31:098][  0]LogInit: CPU Page size=4096, Cores=4
+[2016.02.21-16.33.31:098][  0]LogInit: High frequency timer resolution =3.007968 MHz
+[2016.02.21-16.33.31:100][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2016.02.21-16.33.31:100][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2016.02.21-16.33.31:101][  0]LogMemory: Process Physical Memory: 32.37 MB used, 32.37 MB peak
+[2016.02.21-16.33.31:103][  0]LogMemory: Process Virtual Memory: 52.28 MB used, 52.28 MB peak
+[2016.02.21-16.33.31:104][  0]LogMemory: Physical Memory: 6159.39 MB used, 8190.49 MB total
+[2016.02.21-16.33.31:108][  0]LogMemory: Virtual Memory: 213.02 MB used, 8388608.00 MB total
+[2016.02.21-16.33.31:647][  0]LogTextLocalizationManager: No translations for ('ru-RU') exist, falling back to 'en' for localization and internationalization data.
+[2016.02.21-16.33.34:449][  0]LogCollisionProfile:Warning: Profile (ColcompProfile) - Custom Channel Name = 'GameTraceChannel5' hasn't been found
+[2016.02.21-16.33.34:464][  0]LogCollisionProfile:Warning: Profile (ColcompProfile) - Custom Channel Name = 'GameTraceChannel6' hasn't been found
+[2016.02.21-16.33.35:263][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:284][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:287][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:288][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:289][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:292][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:293][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:297][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:298][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:307][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:323][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:324][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:326][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:331][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:332][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:334][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:336][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:365][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:367][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:368][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:372][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:373][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:377][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:381][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:382][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:384][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:385][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:386][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:388][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:390][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:393][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:394][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:399][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:401][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:402][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:404][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:405][  0]LogSlate:Warning: 'Roboto' does not provide a composite font that can be used with Slate. Slate will be forced to use the fallback font path which may be slower.
+[2016.02.21-16.33.35:408][  0]LogLinker:Warning: CreateImport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprint /Script/UMGEditor.Default__WidgetBlueprint
+[2016.02.21-16.33.35:414][  0]LogLinker:Warning: CreateImport: Failed to load Outer for resource 'WidgetTree': WidgetBlueprint /Script/UMGEditor.Default__WidgetBlueprint
+[2016.02.21-16.33.36:983][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2016.02.21-16.33.38:455][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.02.21-16.33.38:456][  0]LogModuleManager:Warning: ModuleManager: Module 'XAudio2' not found - its StaticallyLinkedModuleInitializers function is null.
+[2016.02.21-16.33.38:566][  0]LogObj: 33425 objects as part of root set at end of initial load.
+[2016.02.21-16.33.38:567][  0]LogUObjectAllocator: 7083208 out of 0 bytes used by permanent object pool.
+[2016.02.21-16.33.38:608][  0]LogEngine: Initializing Engine...
+[2016.02.21-16.33.38:677][  0]LogInit: Texture streaming: Disabled
+[2016.02.21-16.33.38:962][  0]LogNet: Browse: /Game/My_Game/Maps/MyMap?Name=Player
+[2016.02.21-16.33.38:962][  0]LogLoad: LoadMap: /Game/My_Game/Maps/MyMap?Name=Player
+[2016.02.21-16.33.39:353][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2016.02.21-16.33.39:353][  0]LogMemory: Process Physical Memory: 154.02 MB used, 186.99 MB peak
+[2016.02.21-16.33.39:354][  0]LogMemory: Process Virtual Memory: 217.20 MB used, 272.32 MB peak
+[2016.02.21-16.33.39:354][  0]LogMemory: Physical Memory: 6494.83 MB used, 8190.49 MB total
+[2016.02.21-16.33.39:354][  0]LogMemory: Virtual Memory: 452.75 MB used, 8388608.00 MB total
+[2016.02.21-16.33.39:354][  0]LogMemory: 
+[2016.02.21-16.33.39:357][  0]LogMemory: Allocator Stats for binned:
+[2016.02.21-16.33.39:357][  0]LogMemory: Current Memory 153.54 MB used, plus 11.43 MB waste
+[2016.02.21-16.33.39:358][  0]LogMemory: Peak Memory 218.98 MB used, plus 3.11 MB waste
+[2016.02.21-16.33.39:359][  0]LogMemory: Current OS Memory 164.97 MB, peak 222.10 MB
+[2016.02.21-16.33.39:359][  0]LogMemory: Current Waste 1.99 MB, peak 2.02 MB
+[2016.02.21-16.33.39:359][  0]LogMemory: Current Used 153.54 MB, peak 218.98 MB
+[2016.02.21-16.33.39:360][  0]LogMemory: Current Slack 9.44 MB
+[2016.02.21-16.33.39:361][  0]LogMemory: Allocs       154803 Current /  1388898 Total
+[2016.02.21-16.33.39:362][  0]LogMemory: 
+[2016.02.21-16.33.39:363][  0]LogMemory: Block Size Num Pools Max Pools Cur Allocs Total Allocs Min Req Max Req Mem Used Mem Slack Mem Waste Efficiency
+[2016.02.21-16.33.39:363][  0]LogMemory: ---------- --------- --------- ---------- ------------ ------- ------- -------- --------- --------- ----------
+[2016.02.21-16.33.39:364][  0]LogMemory:          8         0         0          0            0       8       0       0K        0K        0K    100.00%
+[2016.02.21-16.33.39:366][  0]LogMemory:         16        13        13      13986       237848      16      16     218K      614K        0K    100.00%
+[2016.02.21-16.33.39:367][  0]LogMemory:         32        34        34      35893       189873      17      32    1121K     1055K      113K     94.81%
+[2016.02.21-16.33.39:367][  0]LogMemory:         48        14        15       8904        90741      33      48     417K      479K       47K     94.75%
+[2016.02.21-16.33.39:368][  0]LogMemory:         64        25        25      19696       142740      49      64    1231K      369K      143K     91.06%
+[2016.02.21-16.33.39:368][  0]LogMemory:         80        12        12       8867       105921      65      80     692K       76K       59K     92.32%
+[2016.02.21-16.33.39:372][  0]LogMemory:         96         8         8       3690       119580      82      96     345K      167K       30K     94.14%
+[2016.02.21-16.33.39:373][  0]LogMemory:        112         6         6       2736        49429      98     112     299K       85K       11K     97.14%
+[2016.02.21-16.33.39:373][  0]LogMemory:        128        49        49      24234        46355     114     128    3029K      107K       85K     97.29%
+[2016.02.21-16.33.39:374][  0]LogMemory:        160        13        15       4812        64244     129     160     751K       80K       51K     93.87%
+[2016.02.21-16.33.39:374][  0]LogMemory:        192        42        42      13759       132622     162     192    2579K      107K      205K     92.37%
+[2016.02.21-16.33.39:375][  0]LogMemory:        224         5         5       1097        70075     194     224     239K       81K       18K     94.38%
+[2016.02.21-16.33.39:376][  0]LogMemory:        256         8         8       1672        31212     225     256     418K       94K       27K     94.73%
+[2016.02.21-16.33.39:376][  0]LogMemory:        288         7         7       1303        25783     257     288     366K       81K       23K     94.87%
+[2016.02.21-16.33.39:377][  0]LogMemory:        320         6         6       1051         9980     290     320     328K       55K       16K     95.83%
+[2016.02.21-16.33.39:377][  0]LogMemory:        384        18        18       2900        15113     322     384    1087K       61K      106K     90.80%
+[2016.02.21-16.33.39:378][  0]LogMemory:        448        15        15       1904         5833     385     448     833K      126K       64K     93.33%
+[2016.02.21-16.33.39:379][  0]LogMemory:        512         8         8        583         3277     449     512     291K      221K       19K     96.29%
+[2016.02.21-16.33.39:379][  0]LogMemory:        576        15        18        527         2590     513     576     296K      658K       20K     97.92%
+[2016.02.21-16.33.39:380][  0]LogMemory:        640        13        39        182         4105     578     640     113K      716K        8K     99.04%
+[2016.02.21-16.33.39:381][  0]LogMemory:        704        19        87        363         8462     641     704     249K      966K       14K     98.85%
+[2016.02.21-16.33.39:382][  0]LogMemory:        768        18        35        475         4495     705     768     356K      792K       17K     98.52%
+[2016.02.21-16.33.39:383][  0]LogMemory:        896         8         8        466         1223     769     896     407K      104K       16K     96.88%
+[2016.02.21-16.33.39:384][  0]LogMemory:       1024         7         7        423          720     897    1024     423K       25K       19K     95.76%
+[2016.02.21-16.33.39:384][  0]LogMemory:       1168         9        10        309         1372    1025    1168     352K      223K       23K     96.01%
+[2016.02.21-16.33.39:385][  0]LogMemory:       1360        18        19        439         2682    1171    1360     583K      565K       43K     96.27%
+[2016.02.21-16.33.39:385][  0]LogMemory:       1632        18        19        706         1604    1361    1632    1125K       23K       95K     91.75%
+[2016.02.21-16.33.39:386][  0]LogMemory:       2048        29        30        398         2607    1633    2048     796K     1060K      108K     94.18%
+[2016.02.21-16.33.39:386][  0]LogMemory:       2336         5         5        105         2857    2050    2336     239K       81K       26K     91.88%
+[2016.02.21-16.33.39:387][  0]LogMemory:       2720        12        12        276          743    2338    2717     733K       32K       45K     94.14%
+[2016.02.21-16.33.39:389][  0]LogMemory:       3264        14        14        261         2294    2721    3264     831K       62K       64K     92.86%
+[2016.02.21-16.33.39:390][  0]LogMemory:       4096        36        36        562         2490    3265    4096    2248K       56K      240K     89.58%
+[2016.02.21-16.33.39:390][  0]LogMemory:       4672        24        24        324         1690    4097    4669    1478K       55K       75K     95.12%
+[2016.02.21-16.33.39:391][  0]LogMemory:       5456        28        29        336          769    4673    5456    1790K        1K      148K     91.74%
+[2016.02.21-16.33.39:392][  0]LogMemory:       6544        20        20        185          541    5460    6537    1182K       97K      101K     92.11%
+[2016.02.21-16.33.39:396][  0]LogMemory:       8192         8        10         57          515    6549    8192     456K       56K       77K     84.96%
+[2016.02.21-16.33.39:396][  0]LogMemory:       9360         7         8         46          117    8200    9360     420K       28K       22K     95.09%
+[2016.02.21-16.33.39:397][  0]LogMemory:      10912        12        12         64          154    9383   10894     682K       86K       32K     95.83%
+[2016.02.21-16.33.39:397][  0]LogMemory:      13104        17        17         81          159   10931   13083    1036K       52K       81K     92.56%
+[2016.02.21-16.33.39:398][  0]LogMemory:      16384       103       105        409         2497   13120   16384    6544K       48K      605K     90.82%
+[2016.02.21-16.33.39:399][  0]LogMemory:      21840       132       133        394         1545   16391   21832    8403K       43K     1404K     83.38%
+[2016.02.21-16.33.39:400][  0]LogMemory:      32768        27        28         54          174   21853   32640    1728K        0K      419K     75.75%
+[2016.02.21-16.33.39:401][  0]LogMemory: 
+[2016.02.21-16.33.39:401][  0]LogMemory: 56448K allocated in pools (with 9687K slack and 4719K waste). Efficiency 91.64%
+[2016.02.21-16.33.39:402][  0]LogMemory: Allocations 154530 Current / 1387032 Total (in 882 pools)
+[2016.02.21-16.33.39:405][  0]LogMemory: 
+[2016.02.21-16.33.44:890][  0]LogModuleManager:Warning: ModuleManager: Module 'GameplayDebugger' not found - its StaticallyLinkedModuleInitializers function is null.
+[2016.02.21-16.33.44:891][  0]LogAIModule: Creating AISystem for world MyMap
+[2016.02.21-16.33.44:892][  0]LogWorld: Game class is 'BP_GameMode_C'
+[2016.02.21-16.33.44:936][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2016.02.21-16.33.44:955][  0]LogInit: WinSock: I am Vovan-PC (192.168.0.38:0)
+[2016.02.21-16.33.44:955][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2016.02.21-16.33.45:027][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:028][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:085][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:087][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:088][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:088][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:090][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:091][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:092][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:098][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:100][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:101][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:103][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:104][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:105][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:106][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:107][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:116][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:118][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:119][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:121][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:122][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:165][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:166][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:168][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:168][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:172][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:173][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:174][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:176][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:190][  0]LogWorld: Bringing World /Game/My_Game/Maps/MyMap.MyMap up for play (max tick rate 30) at 2016.02.21-18.33.45
+[2016.02.21-16.33.45:295][  0]LogWorld: Bringing up level for play took: 0.337494
+[2016.02.21-16.33.45:312][  0]LogBlueprintUserMessages: [BP_GameState_C_0] GameStateInit
+[2016.02.21-16.33.45:318][  0]LogBlueprintUserMessages: [BP_Character_AI_Army_C_0] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:319][  0]LogBlueprintUserMessages: [BP_Character_AI_Army_C_0] Picked Up Weapon
+[2016.02.21-16.33.45:319][  0]LogBlueprintUserMessages: [BP_Character_AI_Army_C_0] 3d person
+[2016.02.21-16.33.45:319][  0]LogBlueprintUserMessages: [BP_Character_AI_GallaciaSantos_C_0] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:321][  0]LogBlueprintUserMessages: [BP_Character_AI_GallaciaSantos_C_0] Picked Up Weapon
+[2016.02.21-16.33.45:321][  0]LogBlueprintUserMessages: [BP_Character_AI_GallaciaSantos_C_0] 3d person
+[2016.02.21-16.33.45:322][  0]LogBlueprintUserMessages: [BP_Character_AI_GangWoman_C_1] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:323][  0]LogBlueprintUserMessages: [BP_Character_AI_GangWoman_C_1] Picked Up Weapon
+[2016.02.21-16.33.45:326][  0]LogBlueprintUserMessages: [BP_Character_AI_GangWoman_C_1] 3d person
+[2016.02.21-16.33.45:327][  0]LogBlueprintUserMessages: [BP_Character_AI_SWAT_C_1] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:329][  0]LogBlueprintUserMessages: [BP_Character_AI_SWAT_C_1] Picked Up Weapon
+[2016.02.21-16.33.45:329][  0]LogBlueprintUserMessages: [BP_Character_AI_SWAT_C_1] 3d person
+[2016.02.21-16.33.45:331][  0]LogBlueprintUserMessages: [BP_Character_AI_Warrior_C_0] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:332][  0]LogBlueprintUserMessages: [BP_Character_AI_Warrior_C_0] Picked Up Weapon
+[2016.02.21-16.33.45:333][  0]LogBlueprintUserMessages: [BP_Character_AI_Warrior_C_0] 3d person
+[2016.02.21-16.33.45:344][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:345][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:351][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:352][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:359][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_0] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:363][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_0] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:366][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_1] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:370][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_2] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:373][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_1] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:377][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:378][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:381][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:382][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:387][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_2] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:389][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:390][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:394][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:396][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:399][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:400][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:405][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_3] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:407][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:410][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:413][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:414][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:431][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_4] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:433][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:434][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:437][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:439][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:443][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:444][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:451][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_3] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:453][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:455][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:458][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:459][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:466][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:467][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:473][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:475][  0]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.33.45:480][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_4] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:484][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_0] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:486][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_0] Picked Up Weapon
+[2016.02.21-16.33.45:487][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_0] 3d person
+[2016.02.21-16.33.45:487][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_0] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:488][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_0] Picked Up Weapon
+[2016.02.21-16.33.45:489][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_0] 3d person
+[2016.02.21-16.33.45:489][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_1] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:491][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_1] Picked Up Weapon
+[2016.02.21-16.33.45:492][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_1] 3d person
+[2016.02.21-16.33.45:492][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_2] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:494][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_2] Picked Up Weapon
+[2016.02.21-16.33.45:494][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_2] 3d person
+[2016.02.21-16.33.45:500][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_1] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:502][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_1] Picked Up Weapon
+[2016.02.21-16.33.45:502][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_1] 3d person
+[2016.02.21-16.33.45:504][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_2] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:505][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_2] Picked Up Weapon
+[2016.02.21-16.33.45:505][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_2] 3d person
+[2016.02.21-16.33.45:508][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_3] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:509][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_3] Picked Up Weapon
+[2016.02.21-16.33.45:510][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_3] 3d person
+[2016.02.21-16.33.45:512][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_4] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:513][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_4] Picked Up Weapon
+[2016.02.21-16.33.45:514][  0]LogBlueprintUserMessages: [BP_Character_AI_Default_C_4] 3d person
+[2016.02.21-16.33.45:517][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_3] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:518][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_3] Picked Up Weapon
+[2016.02.21-16.33.45:519][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_3] 3d person
+[2016.02.21-16.33.45:523][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_4] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.33.45:524][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_4] Picked Up Weapon
+[2016.02.21-16.33.45:525][  0]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_4] 3d person
+[2016.02.21-16.33.45:529][  0]LogInit:Display: Game Engine Initialized.
+[2016.02.21-16.33.45:530][  0]LogLoad: Full Startup: 19.91 seconds (BP compile: 0.00 seconds)
+[2016.02.21-16.33.45:668][  1]LogBlueprintUserMessages: [BP_Character_AI_Army_C_0] New First Person weapon
+[2016.02.21-16.33.45:669][  1]LogBlueprintUserMessages: [BP_Character_AI_GallaciaSantos_C_0] New First Person weapon
+[2016.02.21-16.33.45:672][  1]LogBlueprintUserMessages: [BP_Character_AI_GangWoman_C_1] New First Person weapon
+[2016.02.21-16.33.45:673][  1]LogBlueprintUserMessages: [BP_Character_AI_SWAT_C_1] New First Person weapon
+[2016.02.21-16.33.45:675][  1]LogBlueprintUserMessages: [BP_Character_AI_Warrior_C_0] New First Person weapon
+[2016.02.21-16.33.45:678][  1]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_0] New First Person weapon
+[2016.02.21-16.33.45:680][  1]LogBlueprintUserMessages: [BP_Character_AI_Default_C_0] New First Person weapon
+[2016.02.21-16.33.45:682][  1]LogBlueprintUserMessages: [BP_Character_AI_Default_C_1] New First Person weapon
+[2016.02.21-16.33.45:683][  1]LogBlueprintUserMessages: [BP_Character_AI_Default_C_2] New First Person weapon
+[2016.02.21-16.33.45:684][  1]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_1] New First Person weapon
+[2016.02.21-16.33.45:685][  1]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_2] New First Person weapon
+[2016.02.21-16.33.45:686][  1]LogBlueprintUserMessages: [BP_Character_AI_Default_C_3] New First Person weapon
+[2016.02.21-16.33.45:688][  1]LogBlueprintUserMessages: [BP_Character_AI_Default_C_4] New First Person weapon
+[2016.02.21-16.33.45:689][  1]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_3] New First Person weapon
+[2016.02.21-16.33.45:691][  1]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_4] New First Person weapon
+[2016.02.21-16.33.47:171][ 41]LogNet: NotifyAcceptingConnection: Server MyMap accept
+[2016.02.21-16.33.47:181][ 41]LogNet: Open MyMap 02/21/16 18:33:47 127.0.0.1
+[2016.02.21-16.33.47:181][ 41]LogNet: Added client connection.  Remote address = 127.0.0.1:50757
+[2016.02.21-16.33.47:182][ 41]LogNet: NotifyAcceptingChannel Control 0 server World /Game/My_Game/Maps/MyMap.MyMap: Accepted
+[2016.02.21-16.33.47:186][ 41]LogNet: Remote platform little endian=1
+[2016.02.21-16.33.47:186][ 41]LogNet: This platform little endian=1
+[2016.02.21-16.33.47:187][ 41]LogNet: GetLocalNetworkVersion: GEngineNetVersion: 0, ProjectName: thegame, ProjectVersion: 1.0.0.0, InternalProtocolVersion: 9, LocalNetworkVersion: 1973550810
+[2016.02.21-16.33.47:252][ 42]LogNet: Login request: /Game/My_Game/Maps/My_Entry_Level?Login=q?Password=q userId: Invalid
+[2016.02.21-16.33.47:288][ 43]LogNet: Client netspeed is 10000
+[2016.02.21-16.33.49:396][ 89]LogNet: Join request: /Game/My_Game/Maps/My_Entry_Level?Login=q?Password=q?SplitscreenCount=1
+[2016.02.21-16.33.49:403][ 89]LogBlueprintUserMessages: [BP_MyPlayerState_C_0] PlayerStateInit
+[2016.02.21-16.33.49:450][ 89]LogNet: Join succeeded: Player1
+[2016.02.21-16.33.51:125][123]LogBlueprintUserMessages: [BP_capturePoint_1_C_3] NewCharacter
+[2016.02.21-16.34.01:287][337]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.01:288][337]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.01:289][337]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.03:048][375]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.03:050][375]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.03:058][375]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.03:099][376]LogBlueprintUserMessages: [BP_capturePoint_1_C_3] NewCharacter
+[2016.02.21-16.34.09:131][514]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.09:132][514]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.09:138][514]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.11:378][555]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_5] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.34.11:382][555]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_5] Picked Up Weapon
+[2016.02.21-16.34.11:383][555]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_5] 3d person
+[2016.02.21-16.34.11:383][555]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_5] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.34.11:417][555]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_5] New First Person weapon
+[2016.02.21-16.34.13:177][597]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_6] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.34.13:179][597]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_6] Picked Up Weapon
+[2016.02.21-16.34.13:179][597]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_6] 3d person
+[2016.02.21-16.34.13:180][597]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_6] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.34.13:217][597]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_6] New First Person weapon
+[2016.02.21-16.34.13:334][600]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.13:335][600]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.13:336][600]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.17:822][698]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.17:824][698]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.17:828][698]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.18:074][703]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.18:085][703]LogPhysics:Warning: FBodyInstance::ApplyMaterialToShape_AssumesLocked : PComplexMats is empty - falling back on simple physical material.
+[2016.02.21-16.34.19:284][726]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_7] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.34.19:285][726]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_7] Picked Up Weapon
+[2016.02.21-16.34.19:285][726]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_7] 3d person
+[2016.02.21-16.34.19:285][726]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_7] AIDefault: Wrong Controller for Guard (Guard target)
+[2016.02.21-16.34.19:319][726]LogBlueprintUserMessages: [BP_Character_AI_Bot2_C_7] New First Person weapon
+[2016.02.21-16.34.19:477][731]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2016.02.21-16.34.19:477][731]LogNet: UChannel::CleanUp: [GameNetDriver] [BP_PlayerController_C_0] [BP_PlayerController_C_0]. ChIndex == 0. Closing connection.
+[2016.02.21-16.34.19:478][731]LogNet: UNetConnection::Close: Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, PC: BP_PlayerController_C_0, Owner: BP_PlayerController_C_0, Channels: 145, RemoteAddr: 

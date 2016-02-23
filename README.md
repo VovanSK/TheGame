@@ -1,4 +1,4 @@
-# TheGame
+﻿# TheGame
 Весь контент исключительно для демонстрации функционала.
 All Content is for demonstration purpose only.
 
@@ -43,7 +43,7 @@ Enter - Чат / Chat
 /rain - Включить(Выключить) дождь / Turn on (off) rain
 /kill all - Убить всех / Kill all
 
-/spawn u60
+/spawn uh60
 /spawn mi24
 /spawn bell407
 /spawn t90a
