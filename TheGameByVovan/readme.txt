@@ -24,6 +24,7 @@ H - Бросить гранату / Grenade
 Mouse Wheel - Зум / Zoom
 1 - Предыдущее оружие / Previous weapon
 2 - Следующее оружие / Next weapon
+Q - Спрятать оружие / Hide Weapon
 Enter - Чат / Chat
 
 Серверные комманды (вводить в чат) / Server commands (Enter in chat):
