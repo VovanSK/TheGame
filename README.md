@@ -27,6 +27,7 @@ Mouse Wheel - Зум / Zoom
 2 - Следующее оружие / Next weapon
 Q - Спрятать оружие / Hide weapon
 Enter - Чат / Chat
+L - Показать статистику команд / Show team stats
 
 Серверные комманды (вводить в чат) / Server commands (Enter in chat):
 /loc - Текущие координаты / Current location
