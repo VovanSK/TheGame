@@ -54,6 +54,11 @@ L - Показать статистику команд / Show team stats
 /spawn bmw
 /spawn abrams
 
+/red - Сменить команду на RED / Change your team to RED
+/blue - Сменить команду на BLUE / Change your team to BLUE
+
+/tp - Телепорт в новую часть карты / Telepor to new work in progress map
+
 
 Системные требования / System requirements:
 CPU:			Intel Core 2 Quad CPU Q6600 @ 2.40GHz / AMD Phenom 9850 Quad-Core Processor @ 2.5GHz
