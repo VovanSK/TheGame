@@ -17,6 +17,7 @@ E, Q - Поворот (Вертолет) / Turn (Helicopter)
 F - Войти (выйти) в транспорт / Enter (exit) vehicle
 Space - Прыжок, Тормоз / Jump, Brake
 LMB - Огонь / GunFire
+RMB - Снайперский прицел / Sniper scope
 F6 - Смена вида от третьего или первого лица / Change view between first and third person
 R - Перезарядка / Reload
 G - Выбросить оружие / Drop weapon
@@ -52,6 +53,9 @@ Enter - Чат / Chat
 /spawn bmw
 /spawn abrams
 
+/red - Сменить команду на RED / Change your team to RED
+/blue - Сменить команду на BLUE / Change your team to BLUE
+/tp - Телепорт в новую часть карты / Teleport to new work in progress map
 
 Системные требования / System requirements:
 CPU:			Intel Core 2 Quad CPU Q6600 @ 2.40GHz / AMD Phenom 9850 Quad-Core Processor @ 2.5GHz
