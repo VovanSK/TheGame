@@ -92,6 +92,8 @@ L - Показать статистику команд / Show team stats
 
 /spawn abrams
 
+/spawn mlrs
+
 /red - Сменить команду на RED / Change your team to RED
 
 /blue - Сменить команду на BLUE / Change your team to BLUE

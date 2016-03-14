@@ -52,6 +52,7 @@ Enter - Чат / Chat
 /spawn buggy
 /spawn bmw
 /spawn abrams
+/spawn mlrs
 
 /red - Сменить команду на RED / Change your team to RED
 /blue - Сменить команду на BLUE / Change your team to BLUE
