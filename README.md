@@ -48,6 +48,8 @@ Enter - Чат / Chat
 
 L - Показать статистику команд / Show team stats
 
+C - ПРО для вертолетов и танков / Missile defense for helicopters and tanks
+
 Серверные комманды (вводить в чат) / Server commands (Enter in chat):
 
 /loc - Текущие координаты / Current location
