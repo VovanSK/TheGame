@@ -29,6 +29,7 @@ Q - Спрятать оружие / Hide Weapon
 Enter - Чат / Chat
 L - Показать статистику команд / Show team stats
 C - ПРО для вертолетов и танков / Missile defense for helicopters and tanks
+I - Инвентарь / Inventory
 
 Серверные комманды (вводить в чат) / Server commands (Enter in chat):
 /loc - Текущие координаты / Current location
@@ -59,6 +60,7 @@ C - ПРО для вертолетов и танков / Missile defense for hel
 /red - Сменить команду на RED / Change your team to RED
 /blue - Сменить команду на BLUE / Change your team to BLUE
 /tp - Телепорт в новую часть карты / Teleport to new work in progress map
+/name NewName - Сменить имя на NewName / Change player name to NewName
 
 Системные требования / System requirements:
 CPU:			Intel Core 2 Quad CPU Q6600 @ 2.40GHz / AMD Phenom 9850 Quad-Core Processor @ 2.5GHz
