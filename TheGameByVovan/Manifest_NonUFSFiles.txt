@@ -1,6 +1,6 @@
-Engine\Binaries\Win64\CrashReportClient.exe	2016-04-08T15:26:40.186Z
-TheGame\Binaries\Win64\TheGame-Win64-Shipping.exe	2016-04-10T09:49:31.634Z
-TheGame.exe	2016-04-16T17:31:07.135Z
+Engine\Binaries\Win64\CrashReportClient.exe	2016-04-21T09:26:12.959Z
+TheGame\Binaries\Win64\TheGame-Win64-Shipping.exe	2016-04-21T09:19:30.391Z
+TheGame.exe	2016-04-21T11:18:59.848Z
 Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe	2016-04-04T18:39:47.618Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3PROFILE_x64.dll	2016-04-04T18:39:45.722Z
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2015\PhysX3PROFILE_x64.pdb	2016-04-04T18:41:24.347Z
@@ -21,7 +21,7 @@ Engine\Binaries\ThirdParty\Ogg\Win64\VS2015\libogg_64.dll	2016-04-04T18:37:45.59
 Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbis_64.dll	2016-04-04T18:44:00.870Z
 Engine\Binaries\ThirdParty\Vorbis\Win64\VS2015\libvorbisfile_64.dll	2016-04-04T18:37:45.749Z
 Engine\Binaries\ThirdParty\OpenVR\OpenVRv0_9_12\Win64\openvr_api.dll	2016-04-04T18:35:25.963Z
-Engine\Build\Build.version	2016-04-06T21:31:20.000Z
+Engine\Build\Build.version	2016-04-19T04:23:20.000Z
 Engine\Content\Slate\Checkerboard.png	2016-04-04T18:44:26.340Z
 Engine\Content\Slate\Common\BoxShadow.png	2016-04-04T18:38:30.131Z
 Engine\Content\Slate\Common\Button.png	2016-04-04T18:36:34.070Z
@@ -239,13 +239,13 @@ Engine\Content\Slate\Testing\Fonts\Roboto-BoldItalic.ttf	2016-04-04T18:39:33.749
 Engine\Content\Slate\Testing\Fonts\Roboto-Italic.ttf	2016-04-04T18:44:27.562Z
 Engine\Content\Slate\Tutorials\TutorialBorder.png	2016-04-04T18:36:34.998Z
 Engine\Content\Slate\Tutorials\TutorialShadow.png	2016-04-04T18:44:25.348Z
-Engine\Shaders\StandaloneRenderer\D3D\GammaCorrectionCommon.hlsl	2016-04-06T21:31:20.000Z
-Engine\Shaders\StandaloneRenderer\D3D\SlateDefaultVertexShader.hlsl	2016-04-06T21:31:20.000Z
-Engine\Shaders\StandaloneRenderer\D3D\SlateElementPixelShader.hlsl	2016-04-06T21:31:20.000Z
-Engine\Shaders\StandaloneRenderer\OpenGL\SlateElementPixelShader.glsl	2016-04-06T21:31:20.000Z
-Engine\Shaders\StandaloneRenderer\OpenGL\SlateVertexShader.glsl	2016-04-06T21:31:20.000Z
-Engine\Shaders\StandaloneRenderer\OpenGL\SplashFragmentShader.glsl	2016-04-06T21:31:20.000Z
-Engine\Shaders\StandaloneRenderer\OpenGL\SplashVertexShader.glsl	2016-04-06T21:31:20.000Z
+Engine\Shaders\StandaloneRenderer\D3D\GammaCorrectionCommon.hlsl	2016-04-19T04:23:20.000Z
+Engine\Shaders\StandaloneRenderer\D3D\SlateDefaultVertexShader.hlsl	2016-04-19T04:23:20.000Z
+Engine\Shaders\StandaloneRenderer\D3D\SlateElementPixelShader.hlsl	2016-04-19T04:23:20.000Z
+Engine\Shaders\StandaloneRenderer\OpenGL\SlateElementPixelShader.glsl	2016-04-19T04:23:20.000Z
+Engine\Shaders\StandaloneRenderer\OpenGL\SlateVertexShader.glsl	2016-04-19T04:23:20.000Z
+Engine\Shaders\StandaloneRenderer\OpenGL\SplashFragmentShader.glsl	2016-04-19T04:23:20.000Z
+Engine\Shaders\StandaloneRenderer\OpenGL\SplashVertexShader.glsl	2016-04-19T04:23:20.000Z
 Engine\Content\Internationalization\icudt53l\cnvalias.icu	2016-04-04T18:44:59.342Z
 Engine\Content\Internationalization\icudt53l\confusables.cfu	2016-04-04T18:35:06.539Z
 Engine\Content\Internationalization\icudt53l\en.res	2016-04-04T18:37:04.488Z
@@ -793,4 +793,4 @@ Engine\Binaries\ThirdParty\OpenSSL\Win64\VS2013\libeay32.dll	2016-04-04T18:44:44
 Engine\Binaries\ThirdParty\OpenSSL\Win64\VS2013\ssleay32.dll	2016-04-04T18:44:44.302Z
 Engine\Binaries\ThirdParty\OpenSSL\Win64\VS2015\libeay32.dll	2016-04-07T14:05:07.677Z
 Engine\Binaries\ThirdParty\OpenSSL\Win64\VS2015\ssleay32.dll	2016-04-07T14:05:07.836Z
-Engine\Programs\CrashReportClient\Config\DefaultEngine.ini	2016-04-06T21:31:20.000Z
+Engine\Programs\CrashReportClient\Config\DefaultEngine.ini	2016-04-19T04:23:20.000Z
