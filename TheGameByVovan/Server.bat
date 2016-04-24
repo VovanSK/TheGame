@@ -1,1 +1,1 @@
-TheGame\Binaries\Win64\TheGameServer.exe -log
+start TheGame\Binaries\Win64\TheGameServer.exe -log
