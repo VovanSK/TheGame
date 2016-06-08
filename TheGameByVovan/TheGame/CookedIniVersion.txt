@@ -21,12 +21,29 @@ VersionedIniParams=Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:ANTPa
 VersionedIniParams=Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:JavaPath:(Path=)
 VersionedIniParams=Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:SDKAPILevel:matchndk
 VersionedIniParams=Engine:/Script/AndroidPlatformEditor.AndroidSDKSettings:NDKAPILevel:android-19
-VersionedIniParams=Engine:WindowsApplication.Accessibility:StickyKeysHotkey:False
-VersionedIniParams=Engine:WindowsApplication.Accessibility:ToggleKeysHotkey:False
-VersionedIniParams=Engine:WindowsApplication.Accessibility:FilterKeysHotkey:False
-VersionedIniParams=Engine:WindowsApplication.Accessibility:StickyKeysConfirmation:False
-VersionedIniParams=Engine:WindowsApplication.Accessibility:ToggleKeysConfirmation:False
-VersionedIniParams=Engine:WindowsApplication.Accessibility:FilterKeysConfirmation:False
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:FlipNormalMapGreenChannel:False
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:LocalPlayerClassName:/Script/Engine.LocalPlayer
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bSubtitlesEnabled:True
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:GameCommandLine:-log
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:FOVAngle:90.000000
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:GodMode:True
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:UseAxisIndicator:True
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:MatineeCurveDetail:0.1
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:HeightMapExportClassName:TerrainHeightMapExporterTextT3D
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bGroupingActive:true
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bCustomCameraAlignEmitter:true
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:CustomCameraAlignEmitterDistance:100.0
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bDrawSocketsInGMode:false
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:false
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:(LowerBound=(Type="ERangeBoundTypes::Inclusive",Value=5),UpperBound=(Type="ERangeBoundTypes::Inclusive",Value=120))
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:UseOldStyleMICEditorGroups:true
+VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:
+VersionedIniParams=Engine:WindowsApplication.Accessibility:StickyKeysHotkey:True
+VersionedIniParams=Engine:WindowsApplication.Accessibility:ToggleKeysHotkey:True
+VersionedIniParams=Engine:WindowsApplication.Accessibility:FilterKeysHotkey:True
+VersionedIniParams=Engine:WindowsApplication.Accessibility:StickyKeysConfirmation:True
+VersionedIniParams=Engine:WindowsApplication.Accessibility:ToggleKeysConfirmation:True
+VersionedIniParams=Engine:WindowsApplication.Accessibility:FilterKeysConfirmation:True
 VersionedIniParams=Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:/Game/My_Game/Blueprints/GameMode/BP_gameInstance.BP_gameInstance_C
 VersionedIniParams=Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:/Game/My_Game/Maps/MyMap
 VersionedIniParams=Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:/Game/My_Game/Maps/My_Entry_Level
@@ -1276,22 +1293,6 @@ VersionedIniParams=Engine:TextureStreaming:UseDynamicStreaming:True
 VersionedIniParams=Engine:TextureStreaming:BoostPlayerTextures:3.0
 VersionedIniParams=Engine:TextureStreaming:RangePrefetchDistance:400
 VersionedIniParams=Engine:TextureStreaming:PoolSizeVRAMPercentage:70
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:LocalPlayerClassName:/Script/Engine.LocalPlayer
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bSubtitlesEnabled:True
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:GameCommandLine:-log
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:FOVAngle:90.000000
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:GodMode:True
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:UseAxisIndicator:True
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:MatineeCurveDetail:0.1
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:HeightMapExportClassName:TerrainHeightMapExporterTextT3D
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bGroupingActive:true
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bCustomCameraAlignEmitter:true
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:CustomCameraAlignEmitterDistance:100.0
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bDrawSocketsInGMode:false
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:false
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:(LowerBound=(Type="ERangeBoundTypes::Inclusive",Value=5),UpperBound=(Type="ERangeBoundTypes::Inclusive",Value=120))
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:UseOldStyleMICEditorGroups:true
-VersionedIniParams=Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:
 VersionedIniParams=Engine:/Script/UnrealEd.UnrealEdEngine:AutoSaveIndex:0
 VersionedIniParams=Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:(ThumbnailTexture=Texture2D'/Engine/Maps/Templates/Thumbnails/Default.Default',Map="/Engine/Maps/Templates/Template_Default")
 VersionedIniParams=Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:/Engine/EditorMaterials/Cross
@@ -1761,11 +1762,8 @@ VersionedIniParams=Engine:RemoteConfiguration:IniToLoad:EditorKeyBindings
 VersionedIniParams=Engine:Engine.ErrorHandling:bPromptForRemoteDebugging:false
 VersionedIniParams=Engine:Engine.ErrorHandling:bPromptForRemoteDebugOnEnsure:false
 VersionedIniParams=Engine:Niagara:EnableNiagara:false
-VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="BlockingVolume",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
-VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="InterpActor",CollisionEnabled=QueryOnly,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Pawn, Response=ECR_Ignore)))
-VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="StaticMeshComponent",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic)
-VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="SkeletalMeshActor",CollisionEnabled=QueryAndPhysics,ObjectTypeName=PhysicsBody,CustomResponses=((Channel=Visibility, Response=ECR_Block)))
-VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="InvisibleActor", CollisionEnabled=QueryAndPhysics, ObjectTypeName=WorldDynamic, CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="Spectator",CollisionEnabled=QueryOnly,ObjectTypeName="Pawn",CustomResponses=((Channel="WorldStatic",Response=ECR_Block),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore)),HelpMessage="Pawn object that ignores all other actors except WorldStatic.",bCanModify=False)
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="UI",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Block),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="NoCollision",CollisionEnabled=NoCollision,ObjectTypeName="WorldStatic",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore)),HelpMessage="No collision",bCanModify=False)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="BlockAll",CollisionEnabled=QueryAndPhysics,ObjectTypeName="WorldStatic",CustomResponses=,HelpMessage="WorldStatic object that blocks all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="OverlapAll",CollisionEnabled=QueryOnly,ObjectTypeName="WorldStatic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
@@ -1784,13 +1782,18 @@ VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="Trigge
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="Ragdoll",CollisionEnabled=QueryAndPhysics,ObjectTypeName="PhysicsBody",CustomResponses=((Channel="Pawn",Response=ECR_Ignore)),HelpMessage="Simulating Skeletal Mesh Component. All other channels will be set to default.",bCanModify=False)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="Vehicle",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Vehicle",CustomResponses=,HelpMessage="Vehicle object that blocks Vehicle, WorldStatic, and WorldDynamic. All other channels will be set to default.",bCanModify=False)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="UI",CollisionEnabled=QueryOnly,ObjectTypeName="WorldDynamic",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility"),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap)),HelpMessage="WorldStatic object that overlaps all actors by default. All new custom channels will use its own default response. ",bCanModify=False)
-VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="ProjectileProfile",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Projectile",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap),(Channel="DeadBody",Response=ECR_Overlap),(Channel="CollisionBOX",Response=ECR_Ignore),(Channel="InteractionBox",Response=ECR_Ignore)),HelpMessage="My Projectile",bCanModify=True)
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="ProjectileProfile",CollisionEnabled=QueryAndPhysics,ObjectTypeName="Projectile",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="DeadBody",Response=ECR_Ignore),(Channel="CollisionBOX",Response=ECR_Ignore),(Channel="InteractionBox",Response=ECR_Ignore)),HelpMessage="My Projectile",bCanModify=True)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="DeadBodyProfile",CollisionEnabled=QueryAndPhysics,ObjectTypeName="DeadBody",CustomResponses=((Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Projectile",Response=ECR_Ignore),(Channel="DeadBody",Response=ECR_Ignore)),HelpMessage="Needs description",bCanModify=True)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="CollisionBoxProfile",CollisionEnabled=QueryAndPhysics,ObjectTypeName="CollisionBOX",CustomResponses=((Channel="Visibility",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap),(Channel="EngineTraceChannel1",Response=ECR_Ignore),(Channel="EngineTraceChannel2",Response=ECR_Ignore),(Channel="EngineTraceChannel3",Response=ECR_Ignore),(Channel="EngineTraceChannel4",Response=ECR_Ignore),(Channel="EngineTraceChannel5",Response=ECR_Ignore),(Channel="EngineTraceChannel6",Response=ECR_Ignore),(Channel="Projectile",Response=ECR_Overlap),(Channel="DeadBody",Response=ECR_Overlap),(Channel="ColComp",Response=ECR_Overlap),(Channel="GameTraceChannel7",Response=ECR_Ignore),(Channel="GameTraceChannel8",Response=ECR_Ignore),(Channel="GameTraceChannel9",Response=ECR_Ignore),(Channel="GameTraceChannel10",Response=ECR_Ignore),(Channel="GameTraceChannel11",Response=ECR_Ignore),(Channel="GameTraceChannel12",Response=ECR_Ignore),(Channel="GameTraceChannel13",Response=ECR_Ignore),(Channel="GameTraceChannel14",Response=ECR_Ignore),(Channel="GameTraceChannel15",Response=ECR_Ignore),(Channel="GameTraceChannel16",Response=ECR_Ignore),(Channel="GameTraceChannel17",Response=ECR_Ignore),(Channel="GameTraceChannel18",Response=ECR_Ignore)),HelpMessage="Needs description",bCanModify=True)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="ColcompProfile",CollisionEnabled=QueryAndPhysics,ObjectTypeName=,CustomResponses=((Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore),(Channel="EngineTraceChannel1",Response=ECR_Ignore),(Channel="EngineTraceChannel2",Response=ECR_Ignore),(Channel="EngineTraceChannel3",Response=ECR_Ignore),(Channel="EngineTraceChannel4",Response=ECR_Ignore),(Channel="EngineTraceChannel5",Response=ECR_Ignore),(Channel="EngineTraceChannel6",Response=ECR_Ignore),(Channel="Projectile",Response=ECR_Ignore),(Channel="DeadBody",Response=ECR_Ignore),(Channel="GameTraceChannel5",Response=ECR_Ignore),(Channel="GameTraceChannel6",Response=ECR_Ignore),(Channel="GameTraceChannel7",Response=ECR_Ignore),(Channel="GameTraceChannel8",Response=ECR_Ignore),(Channel="GameTraceChannel9",Response=ECR_Ignore),(Channel="GameTraceChannel10",Response=ECR_Ignore),(Channel="GameTraceChannel11",Response=ECR_Ignore),(Channel="GameTraceChannel12",Response=ECR_Ignore),(Channel="GameTraceChannel13",Response=ECR_Ignore),(Channel="GameTraceChannel14",Response=ECR_Ignore),(Channel="GameTraceChannel15",Response=ECR_Ignore),(Channel="GameTraceChannel16",Response=ECR_Ignore),(Channel="GameTraceChannel17",Response=ECR_Ignore),(Channel="GameTraceChannel18",Response=ECR_Ignore)),HelpMessage="Needs description",bCanModify=True)
-VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="Interaction_Box",CollisionEnabled=QueryAndPhysics,ObjectTypeName="InteractionBox",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap),(Channel="EngineTraceChannel1",Response=ECR_Overlap),(Channel="EngineTraceChannel2",Response=ECR_Overlap),(Channel="EngineTraceChannel3",Response=ECR_Overlap),(Channel="EngineTraceChannel4",Response=ECR_Overlap),(Channel="EngineTraceChannel5",Response=ECR_Overlap),(Channel="EngineTraceChannel6",Response=ECR_Overlap),(Channel="Projectile",Response=ECR_Ignore),(Channel="DeadBody",Response=ECR_Overlap),(Channel="CollisionBOX",Response=ECR_Overlap),(Channel="ColComp",Response=ECR_Overlap),(Channel="MyNoCollisions",Response=ECR_Overlap),(Channel="GameTraceChannel7",Response=ECR_Overlap),(Channel="GameTraceChannel8",Response=ECR_Overlap),(Channel="GameTraceChannel9",Response=ECR_Overlap),(Channel="GameTraceChannel10",Response=ECR_Overlap),(Channel="GameTraceChannel11",Response=ECR_Overlap),(Channel="GameTraceChannel12",Response=ECR_Overlap),(Channel="GameTraceChannel13",Response=ECR_Overlap),(Channel="GameTraceChannel14",Response=ECR_Overlap),(Channel="GameTraceChannel15",Response=ECR_Overlap),(Channel="GameTraceChannel16",Response=ECR_Overlap),(Channel="GameTraceChannel17",Response=ECR_Overlap),(Channel="GameTraceChannel18",Response=ECR_Overlap)),HelpMessage="Needs description",bCanModify=True)
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="Interaction_Box",CollisionEnabled=QueryAndPhysics,ObjectTypeName="InteractionBox",CustomResponses=((Channel="WorldStatic",Response=ECR_Overlap),(Channel="WorldDynamic",Response=ECR_Overlap),(Channel="Pawn",Response=ECR_Overlap),(Channel="Visibility",Response=ECR_Overlap),(Channel="Camera",Response=ECR_Overlap),(Channel="PhysicsBody",Response=ECR_Overlap),(Channel="Vehicle",Response=ECR_Overlap),(Channel="Destructible",Response=ECR_Overlap),(Channel="EngineTraceChannel1",Response=ECR_Overlap),(Channel="EngineTraceChannel2",Response=ECR_Overlap),(Channel="EngineTraceChannel3",Response=ECR_Overlap),(Channel="EngineTraceChannel4",Response=ECR_Overlap),(Channel="EngineTraceChannel5",Response=ECR_Overlap),(Channel="EngineTraceChannel6",Response=ECR_Overlap),(Channel="Projectile",Response=ECR_Ignore),(Channel="DeadBody",Response=ECR_Overlap),(Channel="CollisionBOX",Response=ECR_Overlap),(Channel="ColComp",Response=ECR_Overlap),(Channel="InteractionBox",Response=ECR_Ignore),(Channel="GameTraceChannel7",Response=ECR_Overlap),(Channel="GameTraceChannel8",Response=ECR_Overlap),(Channel="GameTraceChannel9",Response=ECR_Overlap),(Channel="GameTraceChannel10",Response=ECR_Overlap),(Channel="GameTraceChannel11",Response=ECR_Overlap),(Channel="GameTraceChannel12",Response=ECR_Overlap),(Channel="GameTraceChannel13",Response=ECR_Overlap),(Channel="GameTraceChannel14",Response=ECR_Overlap),(Channel="GameTraceChannel15",Response=ECR_Overlap),(Channel="GameTraceChannel16",Response=ECR_Overlap),(Channel="GameTraceChannel17",Response=ECR_Overlap),(Channel="GameTraceChannel18",Response=ECR_Overlap)),HelpMessage="Needs description",bCanModify=True)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:Profiles:(Name="MyNocollisionsProfile",CollisionEnabled=NoCollision,ObjectTypeName="MyNoCollisions",CustomResponses=((Channel="WorldStatic",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore),(Channel="EngineTraceChannel1",Response=ECR_Ignore),(Channel="EngineTraceChannel2",Response=ECR_Ignore),(Channel="EngineTraceChannel3",Response=ECR_Ignore),(Channel="EngineTraceChannel4",Response=ECR_Ignore),(Channel="EngineTraceChannel5",Response=ECR_Ignore),(Channel="EngineTraceChannel6",Response=ECR_Ignore),(Channel="Projectile",Response=ECR_Ignore),(Channel="DeadBody",Response=ECR_Ignore),(Channel="CollisionBOX",Response=ECR_Ignore),(Channel="MyNoCollisions",Response=ECR_Overlap),(Channel="GameTraceChannel7",Response=ECR_Ignore),(Channel="GameTraceChannel8",Response=ECR_Ignore),(Channel="GameTraceChannel9",Response=ECR_Ignore),(Channel="GameTraceChannel10",Response=ECR_Ignore),(Channel="GameTraceChannel11",Response=ECR_Ignore),(Channel="GameTraceChannel12",Response=ECR_Ignore),(Channel="GameTraceChannel13",Response=ECR_Ignore),(Channel="GameTraceChannel14",Response=ECR_Ignore),(Channel="GameTraceChannel15",Response=ECR_Ignore),(Channel="GameTraceChannel16",Response=ECR_Ignore),(Channel="GameTraceChannel17",Response=ECR_Ignore),(Channel="GameTraceChannel18",Response=ECR_Ignore)),HelpMessage="Needs description",bCanModify=True)
-VersionedIniParams=Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:(Channel=ECC_GameTraceChannel1,Name="Projectile",DefaultResponse=ECR_Overlap,bTraceType=False,bStaticObject=False)
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="BlockingVolume",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="InterpActor",CollisionEnabled=QueryOnly,ObjectTypeName=WorldStatic,CustomResponses=((Channel=Pawn, Response=ECR_Ignore)))
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="StaticMeshComponent",CollisionEnabled=QueryAndPhysics,ObjectTypeName=WorldStatic)
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="SkeletalMeshActor",CollisionEnabled=QueryAndPhysics,ObjectTypeName=PhysicsBody,CustomResponses=((Channel=Visibility, Response=ECR_Block)))
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:OldProfiles:(Name="InvisibleActor", CollisionEnabled=QueryAndPhysics, ObjectTypeName=WorldDynamic, CustomResponses=((Channel=Visibility, Response=ECR_Ignore)))
+VersionedIniParams=Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:(Channel=ECC_GameTraceChannel1,Name="Projectile",DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:(Channel=ECC_GameTraceChannel2,Name="DeadBody",DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:(Channel=ECC_GameTraceChannel3,Name="CollisionBOX",DefaultResponse=ECR_Block,bTraceType=False,bStaticObject=False)
 VersionedIniParams=Engine:/Script/Engine.CollisionProfile:DefaultChannelResponses:(Channel=ECC_GameTraceChannel4,Name="ColComp",DefaultResponse=ECR_Ignore,bTraceType=False,bStaticObject=False)
@@ -3325,6 +3328,54 @@ VersionedIniParams=Scalability:EffectsQuality@3:r.MaterialQualityLevel:1
 VersionedIniParams=Scalability:EffectsQuality@3:r.SSS.Scale:1
 VersionedIniParams=Scalability:EffectsQuality@3:r.SSS.SampleSet:2
 VersionedIniParams=Scalability:EffectsQuality@3:r.EmitterSpawnRateScale:1.0
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:show Collision
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:show Collision
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:show Collision
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat SceneRendering
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat SceneRendering
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat GAME
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat GAME
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:stat DumpFrame -ms=0.1
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat UNIT
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat Threading
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat Threading
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat Threads
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat Threads
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat UNIT
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat Tickables
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat Tickables
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat UNIT
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:stat game
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:stat game
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:stat unit
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:stat unit
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StartFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBuffer:Stat StopFile
+VersionedIniParams=Input:/Script/Engine.Console:HistoryBot:-1
 VersionedIniParams=Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:True
 VersionedIniParams=Input:/Script/Engine.InputSettings:bEnableFOVScaling:True
 VersionedIniParams=Input:/Script/Engine.InputSettings:FOVScale:0.011110
@@ -3369,7 +3420,6 @@ VersionedIniParams=Input:/Script/Engine.PlayerInput:DebugExecBindings:(Key=Escap
 VersionedIniParams=Input:/Script/Engine.PlayerInput:DebugExecBindings:(Key=Tab,Command="FocusNextPIEWindow",Control=True)
 VersionedIniParams=Input:/Script/Engine.PlayerInput:DebugExecBindings:(Key=Tab,Command="FocusLastPIEWindow",Control=True,Shift=True)
 VersionedIniParams=Input:/Script/Engine.PlayerInput:DebugExecBindings:(Key=Apostrophe,Command="EnableGDT")
-VersionedIniParams=Input:/Script/Engine.Console:HistoryBot:-1
 VersionedIniParams=Input:/Script/EngineSettings.ConsoleSettings:MaxScrollbackSize:1024
 VersionedIniParams=Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteMapPaths:Content/Maps
 VersionedIniParams=Input:/Script/EngineSettings.ConsoleSettings:ManualAutoCompleteList:(Command="Exit",Desc="Exits the game")
@@ -3526,7 +3576,7 @@ VersionedIniParams=Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInsta
 VersionedIniParams=Game:/Script/UnrealEd.ProjectPackagingSettings:CulturesToStage:en
 VersionedIniParams=Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:False
 VersionedIniParams=Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:False
-VersionedIniParams=Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:False
+VersionedIniParams=Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:True
 VersionedIniParams=Game:Internationalization:LocalizationPaths:../../../../../MyDocuments/Unreal Projects/TheGame/Content/Localization/Game
 VersionedIniParams=Game:DefaultPlayer:Name:Player
 VersionedIniParams=Game:/Script/Engine.GameNetworkManager:MaxIdleTime:+0.0
