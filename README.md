@@ -26,7 +26,7 @@ Space - Прыжок, Тормоз / Jump, Brake
 
 LMB - Огонь / GunFire
 
-RMB - Снайперский прицел / Sniper scope
+RMB - Прицел / Aim
 
 F6 - Смена вида от третьего или первого лица / Change view between first and third person
 
@@ -51,6 +51,8 @@ L - Показать статистику команд / Show team stats
 C - ПРО для вертолетов и танков / Missile defense for helicopters and tanks
 
 I - Инвентарь / Inventory
+
+X - Лечь / Prone
 
 Серверные комманды (вводить в чат) / Server commands (Enter in chat):
 
