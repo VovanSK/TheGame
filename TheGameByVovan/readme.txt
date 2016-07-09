@@ -1,4 +1,6 @@
-﻿Весь контент исключительно для демонстрации функционала.
+﻿Youtube: https://youtu.be/KTBzokce00w
+
+Весь контент исключительно для демонстрации функционала.
 All Content is for demonstration purpose only.
 
 Для корректной работы программы необходимо установить TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
