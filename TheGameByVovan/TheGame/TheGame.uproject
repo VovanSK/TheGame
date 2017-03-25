@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{544C5955-4594-253C-FCBE-D09B791FFB34}",
+	"EngineAssociation": "{4802CB35-4EC3-8A45-19AC-5986F2F6BF08}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -9,8 +9,26 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine"
+				"Engine",
+				"AIModule",
+				"UMG"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "Substance",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		}
+	],
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"PS4",
+		"TVOS",
+		"WindowsNoEditor",
+		"Wolf",
+		"XboxOne"
 	]
 }

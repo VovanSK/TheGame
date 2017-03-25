@@ -53,17 +53,19 @@ X - Лечь / Prone
 /spawn uh60
 /spawn mi24
 /spawn bell407
-/spawn t90a
 /spawn btr80
 /spawn buggy
 /spawn bmw
 /spawn abrams
-/spawn mlrs
+/spawn grad
 
 /red - Сменить команду на RED / Change your team to RED
 /blue - Сменить команду на BLUE / Change your team to BLUE
 /tp - Телепорт в новую часть карты / Teleport to new work in progress map
 /name NewName - Сменить имя на NewName / Change player name to NewName
+/die - Убить персонажа / Kill player character
+
+/skin 1-10 - Выбрать внешний вид персонажа / Change player character skin
 
 Системные требования / System requirements:
 CPU:			Intel Core 2 Quad CPU Q6600 @ 2.40GHz / AMD Phenom 9850 Quad-Core Processor @ 2.5GHz
