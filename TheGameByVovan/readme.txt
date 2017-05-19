@@ -1,12 +1,10 @@
-﻿Youtube: https://youtu.be/KTBzokce00w
-
-Весь контент исключительно для демонстрации функционала.
+﻿Весь контент исключительно для демонстрации функционала.
 All Content is for demonstration purpose only.
 
 Для корректной работы программы необходимо установить TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 Please install:  TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 
-Запуск сервера / Server exec : Запустить Server.bat
+Запуск сервера / Server exec : Запустить LoginServer.bat и GameServer.bat 
 
 Запуск клиента / Client exec: Запустить TheGame.exe
 
@@ -39,8 +37,8 @@ X - Лечь / Prone
 /reset - Сброс текущей позиции / Reset current position to spawn point
 /weapons - Выдать все оружие / Give all weapons
 
-/time_norm - Нормальный ход времени / Normal time speed
-/time_inc - Ускорение времени / Accelerated time
+/time norm - Нормальный ход времени / Normal time speed
+/time inc - Ускорение времени / Accelerated time
 /day - День / Set day
 /night - Ночь / Set night
 /bots on - Включить респавн ботов / Turn on bot respawn
@@ -53,6 +51,7 @@ X - Лечь / Prone
 /spawn uh60
 /spawn mi24
 /spawn bell407
+/spawn t90a
 /spawn btr80
 /spawn buggy
 /spawn bmw
@@ -63,9 +62,6 @@ X - Лечь / Prone
 /blue - Сменить команду на BLUE / Change your team to BLUE
 /tp - Телепорт в новую часть карты / Teleport to new work in progress map
 /name NewName - Сменить имя на NewName / Change player name to NewName
-/die - Убить персонажа / Kill player character
-
-/skin 1-10 - Выбрать внешний вид персонажа / Change player character skin
 
 Системные требования / System requirements:
 CPU:			Intel Core 2 Quad CPU Q6600 @ 2.40GHz / AMD Phenom 9850 Quad-Core Processor @ 2.5GHz

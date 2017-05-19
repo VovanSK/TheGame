@@ -9,7 +9,7 @@ All Content is for demonstration purpose only.
 
 Please install:  TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 
-Запуск сервера / Server exec : Запустить Server.bat
+Запуск сервера / Server exec : Запустить LoginServer.bat и GameServer.bat 
 
 Запуск клиента / Client exec: Запустить TheGame.exe
 
