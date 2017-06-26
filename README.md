@@ -101,11 +101,13 @@ X - Лечь / Prone
 
 /spawn grad
 
+/spawn hamina
+
+/spawn f15c
+
 /red - Сменить команду на RED / Change your team to RED
 
 /blue - Сменить команду на BLUE / Change your team to BLUE
-
-/tp - Телепорт в новую часть карты / Teleport to new work in progress map
 
 /name NewName - Сменить имя на NewName / Change player name to NewName
 
