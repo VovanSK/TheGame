@@ -18,7 +18,6 @@ F - Войти (выйти) в транспорт / Enter (exit) vehicle
 Space - Прыжок, Тормоз / Jump, Brake
 LMB - Огонь / GunFire
 RMB - Прицел / Aim
-F6 - Смена вида от третьего или первого лица / Change view between first and third person
 R - Перезарядка / Reload
 G - Выбросить оружие / Drop weapon
 H - Бросить гранату / Grenade 
@@ -63,6 +62,7 @@ X - Лечь / Prone
 
 /red - Сменить команду на RED / Change your team to RED
 /blue - Сменить команду на BLUE / Change your team to BLUE
+/tp - Телепорт в новую часть карты / Teleport to new work in progress map
 /name NewName - Сменить имя на NewName / Change player name to NewName
 
 Системные требования / System requirements:

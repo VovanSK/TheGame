@@ -1,6 +1,6 @@
 ﻿# TheGame
 
-Youtube: https://youtu.be/KTBzokce00w
+Youtube: https://youtu.be/aomYtvGnl_o
 
 Весь контент исключительно для демонстрации функционала.
 All Content is for demonstration purpose only.
@@ -30,8 +30,6 @@ Space - Прыжок, Тормоз / Jump, Brake
 LMB - Огонь / GunFire
 
 RMB - Прицел / Aim
-
-F6 - Смена вида от третьего или первого лица / Change view between first and third person
 
 R - Перезарядка / Reload
 
