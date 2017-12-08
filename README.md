@@ -7,7 +7,7 @@ All Content is for demonstration purpose only.
 
 Для корректной работы программы необходимо установить TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 
-Please install:  TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
+Please install:  TheGameByVovan\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 
 Запуск сервера / Server exec : Запустить LoginServer.bat и GameServer.bat 
 

@@ -1,1 +1,1 @@
-start TheGame/Binaries/Win64/TheGameServer.exe /Game/My_Game/Maps/CharacterSelection/Map_CharacterSelection?listen -log -port=7788
+start TheGame/Binaries/Win64/TheGameServer-Win64-Shipping.exe /Game/My_Game/Maps/CharacterSelection/Map_CharacterSelection?listen -log -port=7788
