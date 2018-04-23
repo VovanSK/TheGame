@@ -2,116 +2,163 @@
 
 Youtube: https://youtu.be/aomYtvGnl_o
 
+====================== RU ====================== (Scroll down to EN)
+
 Весь контент исключительно для демонстрации функционала.
-All Content is for demonstration purpose only.
 
 Для корректной работы программы необходимо установить TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 
-Please install:  TheGameByVovan\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
+Если проверяете все на одном компьютере:
+Достаточно просто запустить LoginServer.bat (логин сервер) и GameServer.bat (игровой сервер), а также TheGame.exe (Сама игра).
+Менять ничего ненужно просто вводим любой логин + пароль и заходим.
 
-Запуск сервера / Server exec : Запустить LoginServer.bat и GameServer.bat 
+Для игры по сети:
+Настройка и запуск сервера: 
+1) Найти файл с настройками по пути: TheGame\Saved\Config\WindowsServer\Game.ini (Если файла нету необходимо запустить один раз и закрыть LoginServer.bat и файл появится)
+2) Вписать в поля 
+	GameServer_Host - Адрес игрового сервера (внешний ИП), по умолчанию стоит 127.0.0.1
+	GameServer_Port - Порт игрового сервера, по умолчанию 7777
+3) Запустить LoginServer.bat и GameServer.bat, в дальнейишем можно сразу выполнять этот пункт
 
-Запуск клиента / Client exec: Запустить TheGame.exe
+Настройка и запуск клиента:
+1) Запустить TheGame.exe
+2) В окне необходимо указать IP адрес и порт логин сервера, по умолчанию 127.0.0.1:7788
+3) Вводим любой логин + пароль и заходим. Если пытаетесь подключится с тогоже компьютера на котором гейм сервер необходимо поставить галочку в правом верхнем углу перед входом.
 
-Для подключения необходимо указать IP адрес хоста, для локальной машины (клиент и сервер на одном компьютере) - 127.0.0.1
+Дефолтное управление (можно поменять в настройках)
+W, A, S, D - Движение
+E, Q - Поворот (Вертолет)
+F - Войти (выйти) в транспорт
+Space - Прыжок, Тормоз
+LMB - Огон
+RMB - Прицел
+R - Перезарядка
+G - Выбросить оружие
+H - Бросить гранату
+Mouse Wheel - Зум
+1 - Предыдущее оружие
+2 - Следующее оружие
+Q - Спрятать оружие
+Enter - Чат
+L - Показать статистику команд
+C - ПРО для вертолетов и танков
+I - Инвентарь
+X - Лечь
+Ctrl - сесть
 
-Enter IP address to connect - default for local machine - 127.0.0.1
+Серверные комманды (вводить в чат)
+/loc - Текущие координаты
+/reset - Сброс текущей позиции
+/weapons - Выдать все оружие
 
-Управление / Controls:
+/time norm - Нормальный ход времени
+/time inc - Ускорение времени
+/day - День
+/night - Ночь
+/bots on - Включить респавн ботов
+/bots off - Выключить респавн ботов
+/tidi on - Включить замедление времени
+/tidi off - Выключить замедление времени
+/rain - Включить(Выключить) дождь
+/kill all - Убить всех
+/notree - Убрать все деревья\столбы
 
-W, A, S, D - Движение / Movement 
-
-E, Q - Поворот (Вертолет) / Turn (Helicopter)
-
-F - Войти (выйти) в транспорт / Enter (exit) vehicle
-
-Space - Прыжок, Тормоз / Jump, Brake
-
-LMB - Огонь / GunFire
-
-RMB - Прицел / Aim
-
-R - Перезарядка / Reload
-
-G - Выбросить оружие / Drop weapon
-
-H - Бросить гранату / Grenade 
-
-Mouse Wheel - Зум / Zoom
-
-1 - Предыдущее оружие / Previous weapon
-
-2 - Следующее оружие / Next weapon
-
-Q - Спрятать оружие / Hide weapon
-
-Enter - Чат / Chat
-
-L - Показать статистику команд / Show team stats
-
-C - ПРО для вертолетов и танков / Missile defense for helicopters and tanks
-
-I - Инвентарь / Inventory
-
-X - Лечь / Prone
-
-Серверные комманды (вводить в чат) / Server commands (Enter in chat):
-
-/loc - Текущие координаты / Current location
-
-/reset - Сброс текущей позиции / Reset current position to spawn point
-
-/weapons - Выдать все оружие / Give all weapons
-
-/time_norm - Нормальный ход времени / Normal time speed
-
-/time_inc - Ускорение времени / Accelerated time
-
-/day - День / Set day
-
-/night - Ночь / Set night
-
-/bots on - Включить респавн ботов / Turn on bot respawn
-
-/bots off - Выключить респавн ботов / Turn off bot respawn
-
-/tidi on - Включить замедление времени / Turn on time dilation
-
-/tidi off - Выключить замедление времени / Turn off time dilation
-
-/rain - Включить(Выключить) дождь / Turn on (off) rain
-
-/kill all - Убить всех / Kill all
-
+Спавн техники:
 /spawn uh60
-
 /spawn mi24
-
 /spawn bell407
-
 /spawn btr80
-
 /spawn buggy
-
 /spawn bmw
-
 /spawn abrams
-
 /spawn grad
-
 /spawn hamina
-
+/spawn boat
+/spawn pac3
 /spawn f15c
 
-/red - Сменить команду на RED / Change your team to RED
+/red - Сменить команду на RED
+/blue - Сменить команду на BLUE
+/name NewName - Сменить имя на NewName
 
-/blue - Сменить команду на BLUE / Change your team to BLUE
+====================== EN ======================
 
-/name NewName - Сменить имя на NewName / Change player name to NewName
+All content are for preview purpsses only!
 
-/skin 1-10 - Выбрать внешний вид персонажа / Change player character skin
+Please install: TheGame\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
 
-/die - Убить персонажа / Kill player character
+If you play on one computer:
+Just start LoginServer.bat and GameServer.bat and TheGame.exe for game.
+Enter desired login + password and play.
+
+For network play:
+Setting up server:
+1) Find config file: TheGame\Saved\Config\WindowsServer\Game.ini (if you don't have one just start one time LoginServer.bat and it will show up)
+2) Change fields:
+	GameServer_Host - Game server address (External IP), default 127.0.0.1
+	GameServer_Port - Game server port, default 7777
+3) Start LoginServer.bat and GameServer.bat, you should not modify these settings in future
+
+Setting up client:
+1) Start TheGame.exe
+2) Modify IP address to Login Server external IP:Port, default 127.0.0.1:7788
+3) Enter desired login + password and play. If you try to connect from the same computer that running GameServer than you need to check checkbox in right upper corner before connection.
+
+Default controls (may be changed in game settings)
+W, A, S, D - Movement
+E, Q - Turn (Helicopter)
+F - Enter (Exit) vehicle
+Space -Jump, Handbrake
+LMB - Fire
+RMB - Aim
+R - Reload
+G - Drop current weapon
+H - Grenade
+Mouse Wheel - Zoom
+1 - Previous weapon
+2 - Next weapon
+Q - Hide weapon
+Enter - Chat
+L - Shoow team statistic
+C - Anti-missile for vehicles
+I - Inventory
+X - Prone
+Ctrl - Crouch
+
+Server commands (Enter in chat)
+/loc - Current location
+/reset - Reset current location
+/weapons - Give all weapons
+
+/time norm - Normal time speed
+/time inc - Increased time speed
+/day - Day
+/night - Night
+/bots on - Turn on bot respawn
+/bots off - Turn off bot respawn
+/tidi on - Turn on time dilition
+/tidi off - Turn off time dilition
+/rain - Rain
+/kill all - Kil all
+/notree - Remove all trees
+
+Vehicle spawn commands:
+/spawn uh60
+/spawn mi24
+/spawn bell407
+/spawn btr80
+/spawn buggy
+/spawn bmw
+/spawn abrams
+/spawn grad
+/spawn hamina
+/spawn boat
+/spawn pac3
+/spawn f15c
+
+/red - Change team to RED
+/blue - Change teem to BLUE
+/name NewName - Change current name to NewName
 
 Системные требования / System requirements:
 CPU:			Intel Core 2 Quad CPU Q6600 @ 2.40GHz / AMD Phenom 9850 Quad-Core Processor @ 2.5GHz

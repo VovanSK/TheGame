@@ -1,0 +1,1 @@
+start TheGame.exe -DX12
