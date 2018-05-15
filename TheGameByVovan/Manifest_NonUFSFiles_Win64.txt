@@ -1,5 +1,5 @@
 Engine/Binaries/Win64/CrashReportClient.exe	2018-05-08T18:13:11.576Z
-TheGame/Binaries/Win64/TheGame-Win64-Shipping.exe	2018-05-08T19:29:13.519Z
+TheGame/Binaries/Win64/TheGame-Win64-Shipping.exe	2018-05-15T15:24:15.379Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2017-03-10T20:25:17.806Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2018-03-14T17:31:08.525Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2018-03-14T17:35:37.646Z
@@ -16,6 +16,7 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2017-03-10T20:29
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2017-03-10T20:22:38.657Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2018-03-14T17:34:07.422Z
 Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll	2017-05-31T14:42:52.242Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Destructible_x64.dll	2018-03-14T17:30:12.294Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_10/Win64/openvr_api.dll	2017-11-15T16:46:29.658Z
 Engine/Content/Slate/Checkerboard.png	2017-03-10T20:30:13.986Z
 Engine/Content/Slate/Common/BoxShadow.png	2017-03-10T20:22:23.195Z
@@ -770,4 +771,4 @@ Engine/Content/Internationalization/icudt53l/zone/pool.res	2017-03-10T20:20:50.2
 Engine/Content/Internationalization/icudt53l/zone/res_index.res	2017-03-10T20:20:50.742Z
 Engine/Content/Internationalization/icudt53l/zone/root.res	2017-03-10T20:20:50.304Z
 Engine/Programs/CrashReportClient/Config/DefaultEngine.ini	2017-03-10T20:16:55.944Z
-TheGame.exe	2018-05-08T19:31:04.898Z
+TheGame.exe	2018-05-15T15:29:03.808Z

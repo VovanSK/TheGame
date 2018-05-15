@@ -15,6 +15,12 @@
 			]
 		}
 	],
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"LinuxNoEditor",
 		"MacNoEditor",
