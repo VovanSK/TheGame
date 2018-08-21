@@ -11,8 +11,14 @@
 			"AdditionalDependencies": [
 				"Engine",
 				"AIModule",
-				"UMG"
+				"UMG",
+				"NavigationSystem"
 			]
+		},
+		{
+			"Name": "TheGameEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
 		}
 	],
 	"Plugins": [
