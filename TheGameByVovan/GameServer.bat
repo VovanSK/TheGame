@@ -1,1 +1,0 @@
-start TheGame/Binaries/Win64/TheGameServer-Win64-Shipping.exe -log
