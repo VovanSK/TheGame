@@ -1,5 +1,5 @@
 Engine/Binaries/Win64/CrashReportClient.exe	2018-12-18T15:12:11.801Z
-TheGame/Binaries/Win64/TheGame-Win64-Shipping.exe	2018-12-22T11:43:11.385Z
+TheGame/Binaries/Win64/TheGame-Win64-Shipping.exe	2019-01-12T18:15:19.530Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2018-07-31T12:56:23.897Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2018-11-07T17:58:54.666Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2018-11-07T18:01:21.434Z
@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll	2018-11-07T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2017-03-10T20:22:38.511Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2017-03-10T20:29:29.659Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2017-03-10T20:22:38.657Z
-TheGame.exe	2018-12-22T11:44:41.340Z
+TheGame.exe	2019-01-12T18:30:30.064Z
