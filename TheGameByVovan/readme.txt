@@ -6,7 +6,7 @@
 
 Дефолтное управление (можно поменять в настройках)
 W, A, S, D - Движение
-E, Q - Поворот (Вертолет)
+E, Q - Поворот (Вертолет, Самолет)
 F - Войти (выйти) в транспорт
 Space - Прыжок, Тормоз
 LMB - Огон
@@ -15,15 +15,15 @@ R - Перезарядка
 G - Выбросить оружие
 H - Бросить гранату
 Mouse Wheel - Зум
-1 - Предыдущее оружие
-2 - Следующее оружие
 Q - Спрятать оружие
 Enter - Чат
-L - Показать статистику команд
+Tab, L - Показать статистику команд
 C - ПРО для вертолетов и танков
 I - Инвентарь
 X - Лечь
-Ctrl - сесть
+Ctrl - Сесть
+LeftShift, LeftCtrl - Взлет/Посадка (Вертолет)
+LeftShift, LeftCtrl - Газ (Самолет)
 
 Серверные комманды (вводить в чат)
 /loc - Текущие координаты
@@ -67,7 +67,7 @@ In case of startup errorsplease install: TheGame\Engine\Extras\Redist\en-us\UE4P
 
 Default controls (may be changed in game settings)
 W, A, S, D - Movement
-E, Q - Turn (Helicopter)
+E, Q - Turn (Helicopter, Airplane)
 F - Enter (Exit) vehicle
 Space - Jump, Handbrake
 LMB - Fire
@@ -76,15 +76,15 @@ R - Reload
 G - Drop current weapon
 H - Grenade
 Mouse Wheel - Zoom
-1 - Previous weapon
-2 - Next weapon
 Q - Hide weapon
 Enter - Chat
-L - Shoow team statistic
+Tab, L - Shoow team statistic
 C - Anti-missile for vehicles
 I - Inventory
 X - Prone
-Ctrl - Crouch
+LeftCtrl - Crouch
+LeftShift, LeftCtrl - Up/Down (Helicopter)
+LeftShift, LeftCtrl - Throttle (Airplane)
 
 Server commands (Enter in chat)
 /loc - Current location
